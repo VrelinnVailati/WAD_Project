@@ -1,0 +1,7 @@
+.idea/
+.settings/
+target/
+.classpath
+.project
+nb-configuration.xml
+ProyectoBase3CM15.iml
